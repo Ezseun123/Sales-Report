@@ -43,7 +43,9 @@ The sales trend over the year shows fluctuating revenue, with notable peaks in A
 
 
 ### Using the Slicer Feature 
-For 2023 sales
+2023         |     2024
+:-------------------------:|:---------------------------:
+![](male2023.jpg)          |   ![](male2024.jpg)
 
 In 2023, Dele Store generated a total revenue of $221,630 from male customers, who made up the entire customer base for this analysis period. These male customers purchased a total of 1,212 products through 488 transactions. Breaking down the revenue by product category, electronics led the way with $80,000, followed by clothing with $74,000, and beauty products with $67,000. Although electronics brought in the highest revenue, clothing had the highest number of units sold at 450, compared to 410 units of electronics and 350 units of beauty products.
 
